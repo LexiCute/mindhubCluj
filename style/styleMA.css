@@ -1,0 +1,39 @@
+*{
+    text-align: center;  
+}
+
+
+
+#cover{
+    background-image: url("../Films/ma/11n.webp");
+    background-attachment: fixed;
+    background-position: center;
+    padding: 100px 50px;
+    min-height: 400px;
+    margin-left: 20%;
+    margin-right: 20%;
+   
+}
+
+body{
+    background-color: #98839c;
+    font-family: 'Sono', sans-serif;
+    color: #303a40;
+   
+}
+a{
+   color: #604f63;
+   text-shadow: 2px 2px 5px #604f63;
+ text-transform:uppercase;
+border-radius: 2px;
+box-shadow:5px 5px 8px #a097997;
+background: linear-gradient(#aa95ad, #9d87a1)
+}
+ul li {
+    text-align: left;
+}
+
+ol li {
+    text-align: left;
+}
+ 
